@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/kpo/kpo_task1_lab5/main.cpp
+iostream
+-
+vector
+-
+stack
+-
+set
+-
+map
+-
+
