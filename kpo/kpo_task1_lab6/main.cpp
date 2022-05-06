@@ -56,18 +56,16 @@ int main() {
     vector <int> answer;
     for (int i = 0; i < numbersAmount; ++i) {
         cin >> numbersArray[i];
+        tempVector.push_back(numbersArray[i]);
         if (tempSum + numbersArray[i] > localMax) {
-            tempVector.push_back(numbersArray[i]);
             answer = tempVector;
             localMax = tempSum + numbersArray[i];
-        } else if (tempSum + numbersArray[i] <= 0) {
-            tempVector.clear();
-            tempSum = 0;
-            continue;
-        } else if (tempSum + numbersArray[i] > 0){
-            tempVector.push_back(numbersArray[i]);
         }
         tempSum += numbersArray[i];
+        if (tempSum <= 0) {
+            tempVector.clear();
+            tempSum = 0;
+        }
     }
     cout << localMax << ": ";
     for (auto item : answer) {

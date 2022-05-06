@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/kpo/kpo_task1_lab3/class determination.h
+iostream
+-
+cstring
+-
+
+D:/clion/kpo/kpo_task1_lab3/class_realization.cpp
+class determination.h
+D:/clion/kpo/kpo_task1_lab3/class determination.h
+
+D:/clion/kpo/kpo_task1_lab3/main.cpp
+class determination.h
+D:/clion/kpo/kpo_task1_lab3/class determination.h
+

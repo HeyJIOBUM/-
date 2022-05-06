@@ -37,18 +37,13 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../oaip/oaip_task1_lab11__C++" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../oaip/oaip_task1_lab13" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="kpo_task1_lab3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kpo_task1_lab3" TARGET_NAME="kpo_task1_lab3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kpo_task1_lab3" RUN_TARGET_NAME="kpo_task1_lab3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -79,6 +74,10 @@
       <workItem from="1649096112801" duration="16000" />
       <workItem from="1649096148107" duration="11000" />
       <workItem from="1649180551709" duration="10000" />
+      <workItem from="1651682405653" duration="612000" />
+      <workItem from="1651783738985" duration="12000" />
+      <workItem from="1651784039426" duration="10000" />
+      <workItem from="1651784320019" duration="17000" />
     </task>
     <servers />
   </component>

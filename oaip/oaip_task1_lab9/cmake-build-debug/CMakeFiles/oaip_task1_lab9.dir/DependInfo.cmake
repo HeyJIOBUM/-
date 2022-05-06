@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/clion/oaip_task1_lab9/main.cpp" "D:/clion/oaip_task1_lab9/cmake-build-debug/CMakeFiles/oaip_task1_lab9.dir/main.cpp.obj"
+  "D:/clion/oaip/oaip_task1_lab9/main.cpp" "D:/clion/oaip/oaip_task1_lab9/cmake-build-debug/CMakeFiles/oaip_task1_lab9.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

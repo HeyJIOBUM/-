@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/oaip/oaip_task1_lab13/interface.cpp
+interface.h
+D:/clion/oaip/oaip_task1_lab13/interface.h
+iostream
+-
+fstream
+-
+
+D:/clion/oaip/oaip_task1_lab13/interface.h
+structure.h
+D:/clion/oaip/oaip_task1_lab13/structure.h
+workingWithFiles.h
+D:/clion/oaip/oaip_task1_lab13/workingWithFiles.h
+
+D:/clion/oaip/oaip_task1_lab13/main.cpp
+iostream
+-
+fstream
+-
+interface.h
+D:/clion/oaip/oaip_task1_lab13/interface.h
+
+D:/clion/oaip/oaip_task1_lab13/structure.h
+string
+-
+
+D:/clion/oaip/oaip_task1_lab13/workingWithFiles.cpp
+workingWithFiles.h
+D:/clion/oaip/oaip_task1_lab13/workingWithFiles.h
+fstream
+-
+iostream
+-
+
+D:/clion/oaip/oaip_task1_lab13/workingWithFiles.h
+structure.h
+D:/clion/oaip/oaip_task1_lab13/structure.h
+

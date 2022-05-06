@@ -59,6 +59,7 @@ void fill_struct_from_file(receipt*& list, int* count, char* file_name){
         fscanf(my_file,"%s%s%i", &temp_str, &list[*count].receipt_date, &list[*count].order_status);
         list[*count].name = new char[strlen(temp_str) + 1];
         strcpy(list[*count].name, temp_str);
+        if ((int)temp_str[0] <= 0 || (int)list[*count].receipt_date[0] <= 0) continue;
         (*count)++;
     }
     fclose(my_file);
