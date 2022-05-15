@@ -14,7 +14,7 @@ int main() {
         fill_struct_from_file(list, &count, file_name);
     }
     else {
-        ofstream file_ (file_name);
+        ofstream file_ (file_name);1
         file_.close();
     }
     do {

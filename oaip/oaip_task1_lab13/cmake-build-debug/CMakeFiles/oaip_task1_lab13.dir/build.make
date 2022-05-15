@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\clion\oaip\oaip_task1_lab13
+CMAKE_SOURCE_DIR = "D:\git repositorys\-\oaip\oaip_task1_lab13"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\clion\oaip\oaip_task1_lab13\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/oaip_task1_lab13.dir/depend.make
@@ -67,42 +67,42 @@ include CMakeFiles/oaip_task1_lab13.dir/flags.make
 
 CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj: CMakeFiles/oaip_task1_lab13.dir/flags.make
 CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\main.cpp.obj -c D:\clion\oaip\oaip_task1_lab13\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj"
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\main.cpp.obj -c "D:\git repositorys\-\oaip\oaip_task1_lab13\main.cpp"
 
 CMakeFiles/oaip_task1_lab13.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oaip_task1_lab13.dir/main.cpp.i"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion\oaip\oaip_task1_lab13\main.cpp > CMakeFiles\oaip_task1_lab13.dir\main.cpp.i
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\git repositorys\-\oaip\oaip_task1_lab13\main.cpp" > CMakeFiles\oaip_task1_lab13.dir\main.cpp.i
 
 CMakeFiles/oaip_task1_lab13.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oaip_task1_lab13.dir/main.cpp.s"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion\oaip\oaip_task1_lab13\main.cpp -o CMakeFiles\oaip_task1_lab13.dir\main.cpp.s
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\git repositorys\-\oaip\oaip_task1_lab13\main.cpp" -o CMakeFiles\oaip_task1_lab13.dir\main.cpp.s
 
 CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj: CMakeFiles/oaip_task1_lab13.dir/flags.make
 CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj: ../interface.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\interface.cpp.obj -c D:\clion\oaip\oaip_task1_lab13\interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj"
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\interface.cpp.obj -c "D:\git repositorys\-\oaip\oaip_task1_lab13\interface.cpp"
 
 CMakeFiles/oaip_task1_lab13.dir/interface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oaip_task1_lab13.dir/interface.cpp.i"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion\oaip\oaip_task1_lab13\interface.cpp > CMakeFiles\oaip_task1_lab13.dir\interface.cpp.i
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\git repositorys\-\oaip\oaip_task1_lab13\interface.cpp" > CMakeFiles\oaip_task1_lab13.dir\interface.cpp.i
 
 CMakeFiles/oaip_task1_lab13.dir/interface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oaip_task1_lab13.dir/interface.cpp.s"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion\oaip\oaip_task1_lab13\interface.cpp -o CMakeFiles\oaip_task1_lab13.dir\interface.cpp.s
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\git repositorys\-\oaip\oaip_task1_lab13\interface.cpp" -o CMakeFiles\oaip_task1_lab13.dir\interface.cpp.s
 
 CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj: CMakeFiles/oaip_task1_lab13.dir/flags.make
 CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj: ../workingWithFiles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\clion\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.obj -c D:\clion\oaip\oaip_task1_lab13\workingWithFiles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj"
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.obj -c "D:\git repositorys\-\oaip\oaip_task1_lab13\workingWithFiles.cpp"
 
 CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.i"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\clion\oaip\oaip_task1_lab13\workingWithFiles.cpp > CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.i
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\git repositorys\-\oaip\oaip_task1_lab13\workingWithFiles.cpp" > CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.i
 
 CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.s"
-	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\clion\oaip\oaip_task1_lab13\workingWithFiles.cpp -o CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.s
+	C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\git repositorys\-\oaip\oaip_task1_lab13\workingWithFiles.cpp" -o CMakeFiles\oaip_task1_lab13.dir\workingWithFiles.cpp.s
 
 # Object files for target oaip_task1_lab13
 oaip_task1_lab13_OBJECTS = \
@@ -120,7 +120,7 @@ oaip_task1_lab13.exe: CMakeFiles/oaip_task1_lab13.dir/build.make
 oaip_task1_lab13.exe: CMakeFiles/oaip_task1_lab13.dir/linklibs.rsp
 oaip_task1_lab13.exe: CMakeFiles/oaip_task1_lab13.dir/objects1.rsp
 oaip_task1_lab13.exe: CMakeFiles/oaip_task1_lab13.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\clion\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable oaip_task1_lab13.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable oaip_task1_lab13.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\oaip_task1_lab13.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -132,6 +132,6 @@ CMakeFiles/oaip_task1_lab13.dir/clean:
 .PHONY : CMakeFiles/oaip_task1_lab13.dir/clean
 
 CMakeFiles/oaip_task1_lab13.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\clion\oaip\oaip_task1_lab13 D:\clion\oaip\oaip_task1_lab13 D:\clion\oaip\oaip_task1_lab13\cmake-build-debug D:\clion\oaip\oaip_task1_lab13\cmake-build-debug D:\clion\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles\oaip_task1_lab13.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\git repositorys\-\oaip\oaip_task1_lab13" "D:\git repositorys\-\oaip\oaip_task1_lab13" "D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug" "D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug" "D:\git repositorys\-\oaip\oaip_task1_lab13\cmake-build-debug\CMakeFiles\oaip_task1_lab13.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/oaip_task1_lab13.dir/depend
 

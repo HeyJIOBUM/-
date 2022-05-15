@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/clion/oaip/oaip_task1_lab13/interface.cpp" "D:/clion/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj"
-  "D:/clion/oaip/oaip_task1_lab13/main.cpp" "D:/clion/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj"
-  "D:/clion/oaip/oaip_task1_lab13/workingWithFiles.cpp" "D:/clion/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj"
+  "D:/git repositorys/-/oaip/oaip_task1_lab13/interface.cpp" "D:/git repositorys/-/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/interface.cpp.obj"
+  "D:/git repositorys/-/oaip/oaip_task1_lab13/main.cpp" "D:/git repositorys/-/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/main.cpp.obj"
+  "D:/git repositorys/-/oaip/oaip_task1_lab13/workingWithFiles.cpp" "D:/git repositorys/-/oaip/oaip_task1_lab13/cmake-build-debug/CMakeFiles/oaip_task1_lab13.dir/workingWithFiles.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

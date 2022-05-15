@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\clion\oaip\oaip_task1_lab12
+CMAKE_SOURCE_DIR = "D:\git repositorys\-\oaip\oaip_task1_lab12"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\clion\oaip\oaip_task1_lab12\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\git repositorys\-\oaip\oaip_task1_lab12\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/oaip_task1_lab11_c__.dir/clean
 CMakeFiles/oaip_task1_lab11_c__.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oaip_task1_lab11_c__.dir\build.make CMakeFiles/oaip_task1_lab11_c__.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\oaip_task1_lab11_c__.dir\build.make CMakeFiles/oaip_task1_lab11_c__.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\clion\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target oaip_task1_lab11_c__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\git repositorys\-\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target oaip_task1_lab11_c__"
 .PHONY : CMakeFiles/oaip_task1_lab11_c__.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/oaip_task1_lab11_c__.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\git repositorys\-\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/oaip_task1_lab11_c__.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\clion\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\git repositorys\-\oaip\oaip_task1_lab12\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/oaip_task1_lab11_c__.dir/rule
 
 # Convenience name for target.

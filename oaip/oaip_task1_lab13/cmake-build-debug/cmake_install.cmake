@@ -1,4 +1,4 @@
-# Install script for directory: D:/clion/oaip/oaip_task1_lab13
+# Install script for directory: D:/git repositorys/-/oaip/oaip_task1_lab13
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/clion/oaip/oaip_task1_lab13/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/git repositorys/-/oaip/oaip_task1_lab13/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
