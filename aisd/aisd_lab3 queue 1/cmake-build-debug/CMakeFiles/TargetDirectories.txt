@@ -1,0 +1,3 @@
+D:/clion/aisd/aisd_lab3 queue 1/cmake-build-debug/CMakeFiles/aisd_lab3_queue.dir
+D:/clion/aisd/aisd_lab3 queue 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/aisd/aisd_lab3 queue 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
